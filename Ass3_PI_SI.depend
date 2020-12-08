@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555958180 source:d:\2nd semister grade 2\files\assignments\a3\ass3_pi_si\main.cpp
+	"PI_SI_data.h"
+
+1555958180 d:\2nd semister grade 2\files\assignments\a3\ass3_pi_si\include\pi_si_data.h
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+
+1555958732 source:d:\2nd semister grade 2\files\assignments\a3\ass3_pi_si\src\pi_si_data.cpp
+	"PI_SI_data.h"
+
